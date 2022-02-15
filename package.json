@@ -1,9 +1,10 @@
 {
-  "name": "is-email",
-  "version": "1.0.2",
-  "description": "Loosely validate an email address.",
+  "name": "@nickgatzos/is-email",
+  "version": "2.0.0",
+  "description": "Validate an email address.",
   "keywords": [
-    "email"
+    "email",
+    "validation"
   ],
   "main": "lib/index.js",
   "scripts": {
@@ -11,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/segmentio/is-email"
+    "url": "https://github.com/nickgatzos/is-email"
   },
-  "author": "Segment <friends@segment.com>",
-  "license": "SEE LICENSE IN LICENSE",
+  "author": "Nick Gatzoulis",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/segmentio/is-email/issues"
+    "url": "https://github.com/nickgatzos/is-email/issues"
   },
-  "homepage": "https://github.com/segmentio/is-email#readme",
+  "homepage": "https://github.com/nickgatzos/is-email#readme",
   "devDependencies": {
     "@segment/eslint-config": "^3.1.1",
     "browserify": "^13.0.0",
